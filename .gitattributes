@@ -3,3 +3,5 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
 E19*.* filter=lfs diff=lfs merge=lfs -text
+*,.csv filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
